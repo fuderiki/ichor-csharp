@@ -23,6 +23,7 @@ Thumbs.db
 [Dd]ebug*/
 *.lib
 *.sbr
+*.exp
 obj/
 [Rr]elease*/
 _ReSharper*/
@@ -192,3 +193,4 @@ DocProject/Help/html/*.html
 DocProject/Help/html/*.css
 DocProject/Help/*/Template/*.HxT
 DocProject/Help/*/Template
+/lib/ichor.dll.exp
